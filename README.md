@@ -17,8 +17,6 @@ GETTING STARTED
 ===============================================================================
 
 1. Clone the repository
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
 
 2. (Recommended) Create a virtual environment with Python 3.13.3
    python3.13 -m venv venv
